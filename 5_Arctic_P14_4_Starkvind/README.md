@@ -31,3 +31,35 @@ Exploded view of all parts
 Print this png 20.5" x 20.5" at 96 dpi to get a template for creating the top of the purifier.
 
 Alternatively, print [this pdf](top_template_lettersize.pdf) on letter paper and stitch it together.
+
+# Bill of Materials 
+
+## USA
+
+5-pack Arctic P14 PWM PST fans ($45.99) -- https://a.co/d/13X9yej
+
+4 Ikea Starkvind filters ($60) -- https://www.ikea.com/us/en/p/starkvind-filter-for-particle-removal-30461943/
+
+Coolerguys 12V fan power supply ($8) -- https://a.co/d/abm4tWe
+
+2 sheets of 20" x 30" foam board with 3/16" thickness ($6.80) -- https://a.co/d/9twLA9N
+
+About 5 mini sticks of Hot glue ($0.52) -- https://a.co/d/cJKJUbS
+
+20x 45mm M4 bolts ($6.66) -- https://a.co/d/h8CwiiN
+
+20x M4 nuts ($1.22) -- https://a.co/d/gYwgEwq
+
+20x M4 washers ($1.70) --  https://a.co/d/h0UuwJT
+
+(Optional) 1/4" x 1/8" weather stripping -- https://a.co/d/8WaCkBu
+
+(Optional) A bit of tape -- https://a.co/d/2KXZF8a
+
+(Optional) 5x 140mm PC fan grill -- https://a.co/d/iPab5hn
+
+## AUS
+
+Courtesy of @Cameron_RMT
+
+https://twitter.com/Cameron_RMT/status/1558624661667299330?s=20&t=GLKUI50CxZHNyeZjauD5FA
