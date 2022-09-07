@@ -28,9 +28,13 @@ Exploded view of all parts
 # Template for Cutting the Top
 ![top-template](top_template.png)
 
-Print this png 20.5" x 20.5" at 96 dpi to get a template for creating the top of the purifier.
+[PDF](top_template_fullsize.pdf) version.
 
-Alternatively, print [this pdf](top_template_lettersize.pdf) on letter paper and stitch it together.
+Put the PDF on a thumb drive and take it to a copy shop with an oversize printer to print the template on one sheet of paper. If printing the png, print at 96 dpi.
+
+Alternatively, print [this pdf](top_template_lettersize.pdf) on letter paper and stitch it together into a template. (Not recommended, hard to print it without missing bolt holes)
+
+Arctic provides a single fan template, accessible at their [P14 PWM PST Technical Documents](https://support.arctic.de/p14-pwm-pst/docs) page. [Direct link to PDF](https://support.arctic.de/products/p14-pwm-pst/techdocs/140mm_fan-Mounting_hole_pattern.pdf).
 
 # Bill of Materials 
 
