@@ -67,3 +67,24 @@ About 5 mini sticks of Hot glue ($0.52) -- https://a.co/d/cJKJUbS
 Courtesy of @Cameron_RMT
 
 https://twitter.com/Cameron_RMT/status/1558624661667299330?s=20&t=GLKUI50CxZHNyeZjauD5FA
+
+# Tools
+
+## Required Tools
+
+24" T-square -- https://a.co/d/ccHJy1D
+
+Box Cutter / Utility knife
+
+Mini glue gun -- https://a.co/d/f7dAOyi
+
+Pencil
+
+5/32" Drill-bit, Awl, or Screwdriver -- something that can punch a hole for the M4 bolt
+
+## Recommended Tools
+
+Compass Circle Cutter -- https://a.co/d/7Dhx7r7
+
+Self-healing Cutting Mat 24" x 36" -- https://a.co/d/3Wld5w5
+
